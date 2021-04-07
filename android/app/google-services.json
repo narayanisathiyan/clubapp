@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688441525737",
+    "project_id": "eventapp-88212",
+    "storage_bucket": "eventapp-88212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688441525737:android:1b0160d9fcdc8029aaf778",
+        "android_client_info": {
+          "package_name": "com.example.clubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688441525737-uuqvk5rmtafbo71h1nhem6pjkl4h0nkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-cqNUzeqLiQCoXI_IdwYOfqvgVtLkqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688441525737-uuqvk5rmtafbo71h1nhem6pjkl4h0nkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
